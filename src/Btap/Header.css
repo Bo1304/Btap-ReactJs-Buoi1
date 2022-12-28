@@ -1,0 +1,30 @@
+.container-fluid{
+    gap:800px;
+    margin: 0 160px;
+    background-color: black;
+   
+}
+.Background_1{
+    background-color:black;
+}
+.nav-item a{
+    color: rgba(255,255,255,0.5) !important;
+}
+.nav-item a:hover{
+    color: rgb(212, 203, 203) !important;
+}
+.nav-item .nav-link1{
+    color:white !important;
+}
+.nav-item .nav-link1:hover{
+    color:white !important;
+}
+.container-fluid a{
+    color: white;
+}
+.container-fluid a:hover{
+    color: white;
+}
+ul li{
+    padding-left: 15px;
+}

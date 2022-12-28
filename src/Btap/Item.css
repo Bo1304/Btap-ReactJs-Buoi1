@@ -1,0 +1,26 @@
+.containerItem{
+    margin-top:20px;
+}
+.item{
+    background-color: white;
+    border: 5px solid rgb(180, 21, 232);
+}
+.divBtn{
+    margin-top:25px;
+    border-top: 1px solid rgb(155, 152, 152);
+    padding: 15px 0;
+    background-color: rgb(236, 236, 236);
+}
+.btn_Item{
+  
+    margin-left: 68px;
+ 
+}
+h3{
+    margin-top: 10px;
+    text-align: center;
+}
+.tagP{
+    text-align: center;
+    margin:0 35px;
+}

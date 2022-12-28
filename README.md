@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Vâng bài chủ yếu là làm ReactJs nên em sẽ không đề cập làm Reponesive cho bài này nha anh 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
